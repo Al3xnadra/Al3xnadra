@@ -24,7 +24,7 @@
 <br/>
 
 ## Repositories
-[![CSGO_API](https://github-readme-stats.vercel.app/api/pin/?username=Al3xnadra&repo=CSGO_API&border_color=00cccc&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00cccc)](https://github.com/Al3xnadra/CSGO_API)
+[![CSGO_API](https://github-readme-stats.vercel.app/api/pin/?username=Al3xnadra&repo=flutter_cs_api&border_color=00cccc&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00cccc)](https://github.com/Al3xnadra/flutter_cs_api)
 [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Al3xnadra&repo=Calculator&border_color=00cccc&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00cccc)](https://github.com/Al3xnadra/Calculator)
 
 ---
